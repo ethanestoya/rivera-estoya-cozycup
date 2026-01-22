@@ -30,8 +30,7 @@ Cozy Cup Cafe is a simple and cozy-themed website designed for a café business.
 
 ## 👤 About the Authors
 
-<img src="https://github.com/snyb1010.png" width="150" style="border-radius:50%;" />
-<img src="https://github.com/ethanestoya.png" width="150" style="border-radius:50%;" />
+<img src="https://github.com/snyb1010.png" width="150" style="border-radius:50%;" /> <img src="https://github.com/ethanestoya.png" width="150" style="border-radius:50%;" />
 
 **Name:** Vince Rivera  
 **Email:** [your.email@example.com](mailto:your.email@example.com)
