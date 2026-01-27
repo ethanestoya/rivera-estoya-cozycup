@@ -8,6 +8,16 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f8f2e0;
     color: #4c3c32;
+    
+}
+
+h1, h2 {
+    font-family: Daruma Drop One, sans-serif;
+    letter-spacing: 2px;
+}
+
+p {
+    font-family: Providence Sans, sans-serif;
 }
 
 header {
@@ -37,6 +47,8 @@ nav a {
     color: #4c3c32;
     font-weight: bold;
     transition: color 0.3s;
+    font-family: 'Providence Sans', sans-serif;
+    font-size: 18px
 }
 
 nav a:hover {
@@ -46,19 +58,22 @@ nav a:hover {
 .hero {
     text-align: center;
     padding: 150px 0;
-    background-image: url('hero-bg.jpg');
-    background-size: cover;
+    /* background-image: url('cozycup-coffee-house.jpg');
+    background-size: cover; */
+    background-color: khaki;
     color: white;
 }
 
 .hero h1 {
-    font-size: 36px;
+    font-size: 60px;
     margin-bottom: 20px;
+    line-height: 60px;
 }
 
 .hero p {
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: 40px;
+    margin-top: 25px;
 }
 
 .cta-button {
@@ -68,6 +83,9 @@ nav a:hover {
     color: white;
     text-decoration: none;
     border-radius: 5px;
+    font-family: 'Providence Sans', sans-serif;
+    font-size: 18px;
+
 }
 
 .cta-button:hover {
@@ -80,7 +98,7 @@ nav a:hover {
 }
 
 .menu h2 {
-    font-size: 30px;
+    font-size: 40px;
     margin-bottom: 20px;
 }
 
@@ -91,7 +109,7 @@ nav a:hover {
 }
 
 .about h2 {
-    font-size: 30px;
+    font-size: 40px;
     margin-bottom: 20px;
 }
 
@@ -109,7 +127,7 @@ nav a:hover {
 }
 
 .contact h2 {
-    font-size: 30px;
+    font-size: 40px;
     margin-bottom: 20px;
 }
 
