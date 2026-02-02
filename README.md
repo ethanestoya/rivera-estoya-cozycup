@@ -14,43 +14,51 @@ Cozy Cup Cafe is a simple and cozy-themed website designed for a café business.
 * Simple navigation for better user experience
 * Modern and minimal design style
 
-## 🖼 Screen Captures
+## Screen Captures
 
-![Homepage](img/home-page.png)
+![Homepage](img/header-hero.jpeg)
 **Homepage** – Displays the welcoming design and branding of Cozy Cup Cafe.
 
-![Menu Page](images/menu.png)
+![Menu Page](img/menu.jpeg)
 **Menu Page** – Shows the available drinks and food items offered by the café.
 
-![About Page](img/about-page.png)
+![About Page](img/about.jpeg)
 **About Page** – Provides information about the café’s story and vision.
 
-![Contact Page](images/contact.png)
+![Contact Page](img/contact.jpeg)
 **Contact Page** – Allows users to find contact details and reach the café easily.
 
 ## 👤 About the Authors
 
-<img src="https://github.com/snyb1010.png" width="150" style="border-radius:50%;" /> 
+<img src="img/rivera.jpg" width="150" style="border-radius:50%;" /> 
 
-**Name:** Vince Alshie Rivera  
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
-**Connect with Vince:**  
-<a href="https://facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="30"/>
-</a>  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="30"/>
+
+
+*Name:* **Vince Alshie Rivera**  
+*Email:* [202280400@psu.palawan.edu.ph](mailto:202280400@psu.palawan.edu.ph)  
+*Connect with Vince:*
+</br>
+<a href="https://www.facebook.com/vincealshie.valdez.1/" target="_blank">
+  <img src="img/Facebook.png" width="30"/>
+</a>  <a href="https://github.com/snyb1010" target="_blank">
+  <img src="img/Github.png" width="30"/>
 </a>
 
 
-<img src="https://github.com/ethanestoya.png" width="150" style="border-radius:50%;" />
+</br>
 
-**Name:** Ethan Laureen E. Estoya  
-**Email:** [201980093@psu.palawan.edu.ph](mailto:201980093@psu.palawan.edu.ph)  
-**Contact with Ethan:**  
-<a href="https://facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="30"/>
-</a>  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="30"/>
+
+
+<img src="img/estoya.jpg" width="150" style="border-radius:50%;" />
+
+*Name:* **Ethan Laureen E. Estoya**  
+*Email:* [201980093@psu.palawan.edu.ph](mailto:201980093@psu.palawan.edu.ph)  
+*Contact with Ethan:* 
+</br>
+<a href="https://www.facebook.com/ethanxestoya" target="_blank">
+  <img src="img/Facebook.png" width="30"/>
+</a>  <a href="https://github.com/ethanestoya" target="_blank">
+  <img src="img/Github.png" width="30"/>
 </a>
 
 
